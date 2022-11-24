@@ -1,1 +1,1 @@
-# odin-recipes
+Pagina sobre recetas, creada para mostrar mis conocimientos de html, css y javascript.
